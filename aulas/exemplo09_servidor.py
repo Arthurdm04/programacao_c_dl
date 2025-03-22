@@ -32,4 +32,3 @@ def iniciar_Servidor():
                         conn.sendall(resposta.encode())
 if __name__ == '__main__':
     iniciar_Servidor()
-    
